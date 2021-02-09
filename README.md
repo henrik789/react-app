@@ -1,2 +1,2 @@
 # react-app
-node-express-react-mognodb web app
+node-express-react-mongodb web app
